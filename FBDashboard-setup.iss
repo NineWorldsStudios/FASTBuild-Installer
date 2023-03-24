@@ -9,10 +9,10 @@
 
 #define MyAppId "{9F23EDC4-F98F-433A-8914-FA2E8CFDCDFD}" 
 #define MyAppName "FASTBuild Dashboard"
-#define MyAppVersion "0.94.1.104"
+#define MyAppVersion "1.1.0.108"
 #define MyAppPublisher "Nine Worlds Studios GmbH"
 #define MyAppURL "https://www.nineworldsstudios.com/"
-#define MyAppExeName "FBDashboard.exe"    
+#define MyAppExeName "FBDashboard.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
